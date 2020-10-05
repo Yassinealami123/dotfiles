@@ -45,3 +45,6 @@
 
 [branch "master"]
   mergeoptions = --no-edit
+[user]
+	email = Yassine.alami@ieseg.fr
+	name = Yassine Alami
